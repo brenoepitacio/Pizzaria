@@ -1,0 +1,30 @@
+
+.cardapio {
+    border: solid 3px;
+}
+.cardapio  li {
+    display: inline-block;
+    margin: 1em 1em;
+    width: 18%;
+    vertical-align: top
+    ;
+}
+
+.cardapio h1 {
+    text-align: center;
+    margin: 1em 0;
+}
+
+.cardapio p {
+    color: green;
+    text-align: center;
+}
+
+.cardapio h2 {
+    text-align: center;
+}
+
+.cardapio h2:hover {
+    color: darkorange;
+    transition: 1s;
+}
